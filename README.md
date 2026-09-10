@@ -8,10 +8,10 @@ A tiny sandbox repo for practicing the GitHub pull request workflow: clone, bran
 | --- | --- |
 | `git status` | Shows the state of the working directory and staging area |
 | `git add <file>` | Stages changes for the next commit |
-| `git commit -m "msg"` | Recods a snapshot of staged changes |
+| `git commit -m "msg"` | Records a snapshot of staged changes |
 | `git push` | Uploads local commits to the remote repository |
 | `git pull` | Fetches and merges changes from the remote repository |
-| `git branch <name>` | |
+| `git branch <name>` | Creates a new branch without switching to it |
 | `git checkout -b <name>` | Creates and switches to a new branch |
 
 ## Workflow
